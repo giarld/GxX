@@ -6,3 +6,6 @@ Cross-platform window library.
 2. Platform related underlying graphical interfaces provided for the use of graphical APIs.
 3. Character input.
 4. Game controller support.
+
+## License
+`GxX` is licensed under the [MIT License](LICENSE.txt).
